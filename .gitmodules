@@ -1,0 +1,6 @@
+[submodule "android-app"]
+	path = android-app
+	url = https://github.com/nazmos-sakib/AI-Object-Analyzer---Android-APP.git
+[submodule "flask-server"]
+	path = flask-server
+	url = https://github.com/nazmos-sakib/AI-Object-Analyzer---flask-backend.git
